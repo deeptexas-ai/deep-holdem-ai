@@ -1,4 +1,6 @@
-# MasterAI-2.0-1vs1-NoLimit  德州源码，德州扑克源码，德州AI源码和训练模型；联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
+# MasterAI-2.0-1vs1-NoLimit 
+德州AI，德州最强扑克人工智能AI，德州AI源码，德州游戏，德州俱乐部，德州扑克源码，德州源码，德州遊戲，德州俱樂部，德州撲克源碼，德州源碼，unity3D德州，德州开源，德州俱乐部源码，德州金币大厅源码；飞机Telegram: @xuzongbin001
+德州源码，德州扑克源码，德州AI源码和训练模型；联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
 
 ## Introduction
 
